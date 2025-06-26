@@ -8,6 +8,3 @@ This notebook explores over 80,000 UFO sightings across the world, with insights
 - Which states report the most sightings?
 - Are UFO reports seasonal?
 - What shapes are most commonly reported?
-- Do sightings cluster near known landmarks?
-
-
